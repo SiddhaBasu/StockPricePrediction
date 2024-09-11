@@ -12,7 +12,3 @@ Analyzes and forecasts Microsoft's stock prices using Python and LSTM neural net
 ![image](https://github.com/user-attachments/assets/68a7245e-1f7e-4d8f-a5a2-55b85e56fa06)
 
 ![image](https://github.com/user-attachments/assets/fee7b928-6504-4383-a932-5e4a1ae4e491)
-
-![image](https://github.com/user-attachments/assets/561d8b38-3cbf-4dda-a743-5e20271f6da3)
-
-![image](https://github.com/user-attachments/assets/3a6243e4-96fb-42b8-a6f6-6415b4c7149a)
